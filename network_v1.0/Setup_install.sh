@@ -294,4 +294,4 @@ service iptables restart
 service mysqld restart
 service php-fpm restart
 service nginx restart
-echo "LNMP环境安装已完成！" &&sleep 10
+echo "LNMP环境安装已完成！"
