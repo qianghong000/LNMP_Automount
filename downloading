@@ -1,0 +1,4 @@
+cmake   https://cmake.org/files/v3.6/cmake-3.6.1.tar.gz
+jdk1.8  http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+tomcat  
+redis
